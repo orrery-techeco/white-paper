@@ -35,11 +35,12 @@ The SCM empowers the user to interact with their digital universe at different l
 
 ## The Roadmap: An Invitation
 
-The creation of Orrery is an immense undertaking that will only be possible as a community effort. Our roadmap is focused on delivering tangible software value at each stage.
+The creation of Orrery is an immense undertaking that will only be possible as a community effort. Our roadmap is focused on delivering tangible value at each stage.
 
 - **Stage 1: The Paradigm.** Our entire focus is on proving the SCM. We will build a proof-of-concept version of the `Gravity` shell as a cross-platform application and foster a foundational community of contributors.
 - **Stage 2: The Architecture.** With a successful `Gravity` shell, we will begin development on the first version of Orrery OS, integrating the SCM into the core of a custom Linux distribution.
-- **Stage 3: The Ecosystem.** Once the OS is mature, we will develop the software suites and explore the partnerships needed to bring the Orrery vision to dedicated hardware.
+- **Stage 3: The Leap.** Once the OS is mature and has a dedicated user base, we will form a legal entity and seek the capital required to begin hardware research and development. This is the critical transition from a software project to an ecosystem company.
+- **Stage 4: The Synthesis.** With funding and hardware partnerships, we will bring the first Orrery devices and curated software suites to market, realizing the complete vision of a seamlessly integrated ecosystem.
 
 This is not a promise of a finished product. It is an invitation to an exploration. It is a call to developers, designers, and thinkers who believe in a more open, transparent, and empowering digital future.
 
